@@ -1,4 +1,3 @@
-  
 name: CenBoMin-sync
 on:
   schedule:
